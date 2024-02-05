@@ -1,5 +1,5 @@
 # Bank-Management-System
-this project , is purely based on the Python (Object Oriented Programming)
+Based on the Python (Object Oriented Programming)
 
 
 # features 
